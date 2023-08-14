@@ -1,6 +1,6 @@
 # Regresi Berganda dengan Data Set Airbnb
 
-Ini adalah proyek analisis data yang menggunakan regresi berganda untuk menganalisis data set dari Airbnb. Proyek ini dibuat dengan menggunakan bahasa pemrograman Python dan beberapa pustaka analisis data yang populer.
+Proyek analisis data yang menggunakan regresi berganda untuk menganalisis data set dari Airbnb. Proyek ini dibuat dengan menggunakan bahasa pemrograman Python dan beberapa pustaka analisis data yang populer.
 
 ## Deskripsi
 
@@ -17,15 +17,10 @@ Data yang digunakan dalam proyek ini berasal dari data set Airbnb. Data ini menc
 
 ## Dependencies
 
-Proyek ini menggunakan beberapa pustaka Python yang perlu diinstal sebelum menjalankan kode:
+menggunakan beberapa pustaka Python yang perlu diinstal sebelum menjalankan kode:
 
 - pandas
 - numpy
 - matplotlib
 - seaborn
 - scikit-learn
-
-Anda dapat menginstal pustaka-pustaka ini dengan menjalankan perintah berikut:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
